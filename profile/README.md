@@ -8,7 +8,7 @@ ARONETICS Info
 * [About THOR](#about-thor)
 
 ## About us
-Our mission is to change the way businesses all over the world make their most important decisions. We realiz this mission by delivering powerful security intelligence and machine learning solutions that are accessible to everyone. Our mission is clear — to change outcomes for organizations all over the world. Our focus is global security where your identity, data, and privacy are yours.
+Our mission is to change the way businesses all over the world make their most important decisions. We realize this mission by delivering powerful security intelligence and machine learning solutions that are accessible to everyone. Our mission is clear — to change outcomes for organizations all over the world. Our focus is global security where your identity, data, and privacy are untampered and yours.
 
 ## Our origin
 In a nutshell, we've been defending freedom of speech, freedom of politics and freedom of ethics.
