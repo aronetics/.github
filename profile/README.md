@@ -24,6 +24,5 @@ Necessity is the mother of invention —  we offer a defensive digital hammer th
 Our repo is private — our technology is export restricted. If interested to know more about our defensive technology, [look us up!](https://linktr.ee/aronetics)
 
 ## Our Mission
-Our mission is to clear the fog of cyber war.
 
-Our mission is to change the way businesses all over the world make their most important decisions. Realization of this mission is by delivering powerful security intelligence and machine learning solutions that are accessible to everyone. From offices to the boardroom, the computer held in your hand has more power for both defense/offense capabilities that produces an integrated deterrence adding calm to everyones computer, assurance that your data is accessed by you.
+Our mission is to change the way businesses all over the world make their most important decisions. Realization of this mission is by delivering powerful security intelligence and machine learning solutions that are accessible to everyone. From home office computers to the boardroom, the computer held in your hand to the satellite 200 km above has more power for both cyber defense/offense capabilities that produces an integrated deterrence adding calm to everyones computer, assurance that your data is accessed by you.
