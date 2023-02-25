@@ -8,11 +8,11 @@ ARONETICS® Info
 * [About THOR™](#about-thor)
 * [Our Mission](#mission)
 
-## About us
+## About Us
 Our mission is to change the way businesses all over the world make their most important decisions. We realize this mission by delivering powerful security intelligence and machine learning solutions that are accessible to everyone. Our mission is clear — to change outcomes for organizations all over the world. Our focus is global security where your identity, data, and privacy are untampered.
 
-## Our origin
-In a nutshell, we've been defending freedom of speech, freedom of politics and freedom of ethics. We speak IT® and will not stop defending information technology systems. 
+## Our Origin
+In a nutshell, we've been defending ethics. Whether this is a freedom of speech, a freedom of politics and freedom of economy, our roots are stong ethics pertaining to information technology systems. We speak IT® and will not stop defending information technology systems. 
 
 ## About THOR™
 From our humble home network, we saw intrusions from national adversaries. [Aronetics](https://www.aronetics.com) is a small company from the United States that is solely focused on cybersecurity solutions that support national efforts and global security enterprises. THOR assures yourself of tamper-proofing your data, that solves and sees unknown computer behavior in any network device and mission system.
