@@ -7,7 +7,7 @@ ARONETICS® Info
 * [Our origin](#origin)
 * [About THOR™](#about-thor)
 * [Our Mission](#mission)
-* [Our Linktree](#one-link)
+* [Our Linktree](#linktree)
 
 ## About Us
 Our mission is to change the way businesses make their most important decisions.  Our focus is global security where your identity, data, and privacy are untampered.
@@ -29,6 +29,6 @@ Our repo is private — the technology is export restricted, and no longer here 
 
 Our mission is to change the way businesses all over the world make their most important decisions. Realization of this mission is by delivering powerful security intelligence and machine learning solutions that are accessible to everyone. From home office computers to the boardroom, the computer held in your hand to the satellite 200 km above has more power for both cyber defense/offense capabilities that produces an integrated deterrence adding calm to everyone's computer, assurance that your data is accessed by you.
 
-## One Link
+## Linktr.ee
 
 [Linktree](https://linktr.ee/aronetics)
