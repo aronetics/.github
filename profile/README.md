@@ -12,7 +12,7 @@ ARONETICS® Info
 Aronetics®’ mission is to revolutionize global business cybersecurity teams. We speak IT® and will never stop defending data to secure global enterprises against adversaries. Aronetics’ technology provides a single unlimited purpose-driven design that delivers a multi-service function of information security defense to minimize threats to data and your identity.
 
 ## Our Origin
-In a nutshell, we've been defending moral ethics of democratic republics. Whether this is a freedom of speech, a freedom of politics or a freedom of economy, our roots are political ethics pertaining to information technology systems. We speak IT® and will not stop defending information technology systems from [Bears](https://www.cia.gov/the-world-factbook/countries/russia/) and [Panda Bears](https://www.cia.gov/the-world-factbook/countries/china/) and their friends, like Asiatic Lion. 
+In a nutshell, we've been defending moral ethics of democratic republics. Whether this is a freedom of speech, a freedom of politics or a freedom of economy, our roots are political ethics pertaining to information technology systems. We speak IT® and will not stop defending information technology systems from [Bears](https://www.cia.gov/the-world-factbook/countries/russia/) and [Panda Bears](https://www.cia.gov/the-world-factbook/countries/china/) and their friends, like the Asiatic Lion. 
 
 ## About Thor™
 [Aronetics](https://www.aronetics.com) is a small entreprise from Ohio within the United States that is solely focused on cybersecurity solutions that support national efforts and partner enterprises. 
