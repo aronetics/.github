@@ -5,22 +5,27 @@ ARONETICS® Info
 
 * [About us](#about-us)
 * [Our origin](#origin)
-* [About THOR™](#about-thor)
+* [About Thor™](#about-thor)
 * [Our Mission](#mission)
 
 ## About Us
-Our mission is to change the way businesses make their most important decisions.  Our focus is global security where your identity, data, and privacy are untampered.
-Our mantra, is to defend your data to protect your identity.
+Aronetics®’ mission is to revolutionize global business cybersecurity teams. We speak IT® and will never stop defending data to secure global enterprises against adversaries. Aronetics’ technology provides a single unlimited purpose-driven design that delivers a multi-service function of information security defense to minimize threats to data and your identity.
 
 ## Our Origin
-In a nutshell, we've been defending moral ethics of democratic republics. Whether this is a freedom of speech, a freedom of politics and freedom of economy, our roots are political ethics pertaining to information technology systems. We speak IT® and will not stop defending information technology systems from [Bears](https://www.cia.gov/the-world-factbook/countries/russia/) and [Dragons](https://www.cia.gov/the-world-factbook/countries/china/) and their friends, like wolves. 
+In a nutshell, we've been defending moral ethics of democratic republics. Whether this is a freedom of speech, a freedom of politics or a freedom of economy, our roots are political ethics pertaining to information technology systems. We speak IT® and will not stop defending information technology systems from [Bears](https://www.cia.gov/the-world-factbook/countries/russia/) and [Panda Bears](https://www.cia.gov/the-world-factbook/countries/china/) and their friends, like Asiatic Lion. 
 
-## About THOR™
-[Aronetics](https://www.aronetics.com) is a small company from Ohio within the United States that is solely focused on cybersecurity solutions that support national efforts and global enterprises. THOR is a product protecting public and private enterprise systems and their devices which use the Zero Trust cybersecurity framework. Thor is the only market offering that resides at a low-level of the operating system, capable of doing more than assuring yourself of intrusion attemps that tamper with your data, Thor sees unknown behaviors in any network device and mission system and is the sole proactive technology.
+## About Thor™
+[Aronetics](https://www.aronetics.com) is a small entreprise from Ohio within the United States that is solely focused on cybersecurity solutions that support national efforts and partner enterprises. 
 
-To communicate to you anywhere that you, about lurkers in your system tampering with your data, we built technology to solve an operator mistakes, exploited zero days (though they are rare), risks abundant in the supply chain and malicious actors.
+At no other point in history have changes in other societies been possible. Unprecedented transformations are already taking place. Thor™ completely minimizes the risks associated with edge devices and provides a game-changing capability for both businesses and governments.
 
-Necessity is the mother of invention — we offer a defensive digital hammer that we call THOR.
+Thor™ represents a complete and necessary paradigm shift across the vast landscape of devices that require protection.
+
+Aronetics® embeds intelligent security directly into the kernel of the operating system to thwart any adversarial attempt to tamper with data from a single, tamper-proof perspective, thereby protecting itself.
+
+Aronetics® redefines security by embedding Zero Trust at the system’s core—utilizing quantum-grade randomness from a high-frequency and non-deterministic codebase to create an impenetrable cryptographic bridge from the kernel module to the Unified External Firmware Interface.
+
+Necessity is the mother of invention — we offer a defensive digital hammer that we call Thor™.
 
 Our repo is private — the technology is export restricted, and no longer here on [GitHub](https://gitlab.com). If you are interested to know more about our technology, [contact us!](https://www.aronetics.com/company/contact/)
 
