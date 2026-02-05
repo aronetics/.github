@@ -33,7 +33,7 @@ Our repo is private — the technology is export restricted, and no longer here 
 
 Our mission is to change the way businesses all over the world make their most important decisions. Realization of this mission is by delivering powerful security intelligence and machine learning solutions that are accessible to everyone. From home office computers to the boardroom, the computer held in your hand to the mobile tower RAN network and the satellite 200 km above for GPS capability, we provide powerful cyber defense/offense for an integrated deterrence to worldwide to defeat malfeasant actors adding calm to everyone's life, assurance that your data is solely yours.
 
-## Sommaire
+## Sommaire dans la Francais
 
 * [À propos de nous](#propos-de-nous)
 * [Nos origines](#origines)
